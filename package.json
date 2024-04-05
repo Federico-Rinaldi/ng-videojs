@@ -1,0 +1,21 @@
+{
+  "name": "ng-videojs",
+  "version": "0.0.1",
+  "author": {
+    "name": "Federico Rinaldi",
+    "email": "info@federicorinaldi.com",
+    "url": "https://federicorinaldi.dev"
+  },
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0",
+    "videojs-youtube": "^3.0.1"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@angular-eslint/schematics": "^14.4.0",
+    "video.js": "^8.10.0"
+  }
+}
